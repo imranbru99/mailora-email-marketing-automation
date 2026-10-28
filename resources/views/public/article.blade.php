@@ -1,0 +1,1 @@
+@extends('layouts.public')@section('title',$article->name.' — Help Center')@section('content')<article class="doc"><span class="eyebrow">{{ $article->category }}</span><h1>{{ $article->name }}</h1><div>{!! $html !!}</div><a href="/docs" class="text-link">Back to guide →</a></article>@endsection

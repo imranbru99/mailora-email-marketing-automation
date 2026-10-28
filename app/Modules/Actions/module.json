@@ -1,0 +1,11 @@
+{
+  "number": 39,
+  "key": "actions",
+  "name": "Actions",
+  "description": "send email, send SMS/WhatsApp, add/remove tag, add/remove from list, update field, change score, move to branch, assign to owner, create task, create deal, notify team (email/Slack/Telegram webhook), call webhook, wait, split, AI-generate and send personalized email, update/unsubscribe contact, start/stop another automation",
+  "category": "D. Marketing Automation",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

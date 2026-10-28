@@ -1,0 +1,11 @@
+{
+  "number": 55,
+  "key": "archives",
+  "name": "Social Sharing & \"View in Browser\" pages",
+  "description": "public archive of campaigns (optional)",
+  "category": "E. Forms, Landing Pages & Growth",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

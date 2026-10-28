@@ -1,0 +1,11 @@
+{
+  "number": 78,
+  "key": "exports",
+  "name": "Exports",
+  "description": "CSV/XLSX/PDF everywhere; API access to metrics",
+  "category": "H. Analytics & Reporting",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

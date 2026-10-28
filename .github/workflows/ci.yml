@@ -1,0 +1,72 @@
+name: Application checks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  application:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        php: ['8.3', '8.4']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php }}
+          extensions: bcmath, dom, fileinfo, gd, intl, mbstring, pcntl, pdo_sqlite, redis, sockets, xml, zip
+          coverage: none
+          tools: composer:v2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - name: Prepare application environment
+        run: |
+          cp .env.example .env
+          mkdir -p storage/framework/{cache/data,sessions,views} storage/logs
+          touch database/database.sqlite
+      - name: Install PHP dependencies
+        run: composer install --prefer-dist --no-interaction --no-progress
+      - run: php artisan key:generate
+      - run: composer validate --strict
+      - run: vendor/bin/pint --test
+      - run: vendor/bin/phpstan analyse --no-progress --memory-limit=1G
+      - run: php artisan test --compact
+      - run: npm ci --no-audit --no-fund
+      - run: npm run build
+
+  container:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sh docker/configure.sh
+      - run: docker compose --env-file docker/.env config --quiet
+      - run: docker compose --env-file docker/.env build app web
+      - name: Start backing services
+        run: docker compose --env-file docker/.env up -d mysql redis
+      - name: Install MySQL schema
+        run: docker compose --env-file docker/.env run --rm app php artisan migrate --force
+      - name: Start application and workers
+        run: docker compose --env-file docker/.env up -d
+      - name: Check HTTP and storage
+        run: |
+          for attempt in $(seq 1 30); do
+            if curl --fail --silent http://127.0.0.1:8080/up > /dev/null; then break; fi
+            sleep 2
+          done
+          curl --fail --silent http://127.0.0.1:8080/up > /dev/null
+          curl --fail --silent http://127.0.0.1:8080/admin/login > /dev/null
+          docker compose --env-file docker/.env exec -T app php artisan health:check
+          docker compose --env-file docker/.env exec -T worker php artisan horizon:status
+      - name: Container logs
+        if: failure()
+        run: docker compose --env-file docker/.env logs --no-color --tail=150
+      - name: Shut down test stack
+        if: always()
+        run: docker compose --env-file docker/.env down --volumes

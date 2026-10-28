@@ -1,0 +1,11 @@
+{
+  "number": 51,
+  "key": "giveaways",
+  "name": "Giveaways / Contests",
+  "description": "entries, rules, winner picker, compliance copy",
+  "category": "E. Forms, Landing Pages & Growth",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

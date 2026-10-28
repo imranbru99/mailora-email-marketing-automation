@@ -1,0 +1,11 @@
+{
+  "number": 47,
+  "key": "landing-pages",
+  "name": "Landing Page Builder",
+  "description": "block-based pages with custom domain/slug (laravel-universal-slug for any language), templates, SEO meta, forms, countdown, pixel/analytics hooks, A/B tests, publish/unpublish, versioning",
+  "category": "E. Forms, Landing Pages & Growth",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

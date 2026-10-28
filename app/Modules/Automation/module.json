@@ -1,0 +1,14 @@
+{
+  "number": 37,
+  "key": "automation",
+  "name": "Visual Automation Builder",
+  "description": "canvas flow editor: triggers, conditions (if/else, multi-branch splits), actions, delays/waits (fixed, until date/time, until event, business-hours), A/B split, goal/exit conditions, merge paths, loops with caps, per-contact run log, versioning, draft/live, test with a sample contact, pause/resume, safe edit of live flows",
+  "category": "D. Marketing Automation",
+  "depends_on": [
+    "contacts",
+    "events"
+  ],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

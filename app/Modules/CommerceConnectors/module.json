@@ -1,0 +1,11 @@
+{
+  "number": 60,
+  "key": "commerce-connectors",
+  "name": "E-commerce Connectors",
+  "description": "Shopify, WooCommerce, Magento, custom API: sync customers/orders/products/carts via webhooks and polling; abandoned cart tracking",
+  "category": "F. Sales, CRM & Commerce Light",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

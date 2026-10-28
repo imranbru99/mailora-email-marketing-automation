@@ -1,0 +1,11 @@
+{
+  "number": 18,
+  "key": "warmup",
+  "name": "Throttling & Warm-up",
+  "description": "send rate limits per minute/hour/day, IP/domain warm-up schedules, gradual ramp-up, automatic pause on complaint/bounce spikes",
+  "category": "B. Campaigns",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

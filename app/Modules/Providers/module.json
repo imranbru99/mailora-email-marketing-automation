@@ -1,0 +1,11 @@
+{
+  "number": 64,
+  "key": "providers",
+  "name": "SMTP & Provider Connections",
+  "description": "drivers: SMTP, Amazon SES, Mailgun, SendGrid, Postmark, Brevo, SparkPost, Resend, Mailtrap, custom HTTP API, plus Postfix/own MTA hook; many connections, weighted routing, failover, per-branch assignment, per-provider rate limits, health checks",
+  "category": "G. Deliverability & Infrastructure",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

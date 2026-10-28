@@ -1,0 +1,11 @@
+{
+  "number": 29,
+  "key": "code-editor",
+  "name": "Code Editor",
+  "description": "raw HTML/CSS editor with live preview, CSS inliner, minification, validation",
+  "category": "C. Content & Design",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

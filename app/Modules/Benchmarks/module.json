@@ -1,0 +1,11 @@
+{
+  "number": 80,
+  "key": "benchmarks",
+  "name": "Benchmarks",
+  "description": "compare against industry averages (seeded reference data) and across own branches",
+  "category": "H. Analytics & Reporting",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

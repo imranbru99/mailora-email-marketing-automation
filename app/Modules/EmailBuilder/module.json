@@ -1,0 +1,13 @@
+{
+  "number": 28,
+  "key": "email-builder",
+  "name": "Drag-and-Drop Email Builder",
+  "description": "block-based editor (header, text, image, button, divider, spacer, columns, social, video thumbnail, countdown timer, product block, coupon, menu, footer, HTML block, dynamic content block), responsive output, global styles, undo/redo, save as reusable block, mobile/desktop/dark preview, MJML-compatible output pipeline or equivalent inline-CSS renderer",
+  "category": "C. Content & Design",
+  "depends_on": [
+    "templates"
+  ],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

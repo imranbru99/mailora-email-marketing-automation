@@ -1,0 +1,11 @@
+{
+  "number": 13,
+  "key": "duplicates",
+  "name": "Duplicate Management",
+  "description": "detection and merge UI",
+  "category": "A. Audience & Contacts",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

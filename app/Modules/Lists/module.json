@@ -1,0 +1,11 @@
+{
+  "number": 3,
+  "key": "lists",
+  "name": "Lists & Groups",
+  "description": "static lists, multiple list membership, list settings (default sender, double opt-in, welcome email), archive",
+  "category": "A. Audience & Contacts",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

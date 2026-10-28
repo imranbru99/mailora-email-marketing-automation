@@ -1,0 +1,11 @@
+{
+  "number": 94,
+  "key": "usage",
+  "name": "Usage Metering & Quotas",
+  "description": "real-time counters, soft/hard limits, overage billing or blocking, usage alerts",
+  "category": "J. Billing, Plans & Platform (SaaS mode)",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

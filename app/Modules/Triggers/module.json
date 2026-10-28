@@ -1,0 +1,11 @@
+{
+  "number": 38,
+  "key": "triggers",
+  "name": "Triggers",
+  "description": "contact added to list, tag added/removed, form submitted, field changed, date-based (birthday/anniversary/renewal), email opened/clicked/replied, link clicked, page visited, e-commerce events (cart abandoned, order placed, product viewed, back in stock, price drop), webhook/API event, subscription start/cancel/expire, score threshold, manual enrollment, segment entry/exit, RSS item, calendar/booking event",
+  "category": "D. Marketing Automation",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

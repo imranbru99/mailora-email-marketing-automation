@@ -1,0 +1,11 @@
+{
+  "number": 65,
+  "key": "feedback",
+  "name": "Bounce, Complaint & Feedback-Loop Processing",
+  "description": "webhooks per provider + IMAP bounce mailbox parser, hard/soft classification, retry rules, auto-suppression",
+  "category": "G. Deliverability & Infrastructure",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 33,
+  "key": "brand",
+  "name": "Brand Kit",
+  "description": "logo, colors, fonts, footer, social links, default buttons per business/branch, auto-applied to templates",
+  "category": "C. Content & Design",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

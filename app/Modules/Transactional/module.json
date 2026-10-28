@@ -1,0 +1,11 @@
+{
+  "number": 19,
+  "key": "transactional",
+  "name": "Transactional Email",
+  "description": "API/SMTP relay + templates for receipts, password resets, notifications; separate stream/reputation; logs, search, resend, webhooks",
+  "category": "B. Campaigns",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

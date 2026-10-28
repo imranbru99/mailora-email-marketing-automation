@@ -1,0 +1,11 @@
+{
+  "number": 35,
+  "key": "translations",
+  "name": "Multi-language Content",
+  "description": "create translations of any email (AI-assisted), auto-send by contact language, RTL support (Arabic, Urdu, Hebrew), full Bangla/Unicode support",
+  "category": "C. Content & Design",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 26,
+  "key": "sms",
+  "name": "SMS & WhatsApp Campaigns (omnichannel add-on)",
+  "description": "optional module: SMS/WhatsApp/push broadcasts with the same segmentation and automation, provider drivers (Twilio-compatible, plus local gateway interface for Bangladesh providers), opt-in tracking",
+  "category": "B. Campaigns",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

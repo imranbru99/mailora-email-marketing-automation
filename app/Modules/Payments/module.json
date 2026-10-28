@@ -1,0 +1,11 @@
+{
+  "number": 92,
+  "key": "payments",
+  "name": "Payment Gateways",
+  "description": "Stripe, PayPal, Paddle-ready interface; Bangladesh local gateways via adapter interface (bKash/Nagad/SSLCommerz-style); manual/bank payment with admin approval",
+  "category": "J. Billing, Plans & Platform (SaaS mode)",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

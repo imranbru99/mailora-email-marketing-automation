@@ -1,0 +1,11 @@
+{
+  "number": 1,
+  "key": "contacts",
+  "name": "Contacts",
+  "description": "full profile (email, name, phone, company, job title, address, birthday, language, timezone, source, status, score, tags, custom fields, consent records, engagement history, notes, activity timeline), bulk actions, merge duplicates, soft deletes, GDPR export/erase",
+  "category": "A. Audience & Contacts",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

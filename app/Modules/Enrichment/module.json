@@ -1,0 +1,11 @@
+{
+  "number": 12,
+  "key": "enrichment",
+  "name": "Contact Enrichment",
+  "description": "via laravel-ai-catalog scraping + AI: company, industry, size, social links from email domain; opt-in and logged",
+  "category": "A. Audience & Contacts",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "adapter"
+}

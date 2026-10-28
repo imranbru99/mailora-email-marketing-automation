@@ -1,0 +1,11 @@
+{
+  "number": 10,
+  "key": "consent",
+  "name": "Consent & Compliance (GDPR/CAN-SPAM/CASL/PECR)",
+  "description": "consent log with timestamp/IP/source/proof, double opt-in, legal basis fields, data-subject requests (export/delete) workflow, region-based rules, mandatory footer/address/unsubscribe enforcement, data retention policies, DPA/legal documents page",
+  "category": "A. Audience & Contacts",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

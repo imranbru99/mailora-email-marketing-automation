@@ -1,0 +1,11 @@
+{
+  "number": 24,
+  "key": "checklist",
+  "name": "Pre-send Checklist & Spam Score",
+  "description": "checks for broken links, missing alt text, spammy words, image/text ratio, missing unsubscribe, SPF/DKIM/DMARC status, link domain reputation, subject length; AI review; block send on critical errors",
+  "category": "B. Campaigns",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

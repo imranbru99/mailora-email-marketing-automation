@@ -1,0 +1,11 @@
+{
+  "number": 72,
+  "key": "automation-reports",
+  "name": "Automation Reports",
+  "description": "per-flow and per-step metrics, revenue, journeys",
+  "category": "H. Analytics & Reporting",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

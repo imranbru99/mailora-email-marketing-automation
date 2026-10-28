@@ -1,0 +1,11 @@
+{
+  "number": 11,
+  "key": "scoring",
+  "name": "Lead Scoring",
+  "description": "rule-based scoring (opens, clicks, page visits, form fills, purchases), decay, grading, hot-lead alerts, AI-suggested scoring",
+  "category": "A. Audience & Contacts",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

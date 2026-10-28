@@ -1,0 +1,11 @@
+{
+  "number": 74,
+  "key": "revenue-reports",
+  "name": "Revenue & ROI Dashboard",
+  "description": "attributed revenue, cost per send (provider cost entry), ROI, LTV",
+  "category": "H. Analytics & Reporting",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

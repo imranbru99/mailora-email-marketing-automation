@@ -1,0 +1,211 @@
+{
+  "LandingPage": [
+    "landing-pages",
+    "Growth",
+    "heroicon-o-globe-alt",
+    {
+      "name": "string",
+      "slug": "string",
+      "headline": "string",
+      "body": "longText",
+      "button_label": "string",
+      "signup_form_id": "foreign",
+      "published": "boolean",
+      "seo_description": "text"
+    },
+    {
+      "published": "boolean"
+    },
+    "name"
+  ],
+  "Survey": [
+    "surveys",
+    "Growth",
+    "heroicon-o-chart-bar",
+    {
+      "name": "string",
+      "question": "string",
+      "options": "json",
+      "published": "boolean"
+    },
+    {
+      "options": "array",
+      "published": "boolean"
+    },
+    "name"
+  ],
+  "Webinar": [
+    "webinars",
+    "Growth",
+    "heroicon-o-calendar-days",
+    {
+      "name": "string",
+      "description": "text",
+      "starts_at": "dateTime",
+      "ends_at": "dateTime",
+      "location": "string",
+      "capacity": "integer",
+      "published": "boolean"
+    },
+    {
+      "starts_at": "datetime",
+      "ends_at": "datetime",
+      "published": "boolean"
+    },
+    "name"
+  ],
+  "Coupon": [
+    "coupons",
+    "Commerce",
+    "heroicon-o-ticket",
+    {
+      "name": "string",
+      "code": "string",
+      "discount_percent": "integer",
+      "expires_at": "dateTime",
+      "max_uses": "integer",
+      "uses": "integer"
+    },
+    {
+      "expires_at": "datetime"
+    },
+    "name"
+  ],
+  "ShortLink": [
+    "short-links",
+    "Growth",
+    "heroicon-o-link",
+    {
+      "name": "string",
+      "slug": "string",
+      "destination": "string",
+      "clicks": "integer",
+      "active": "boolean"
+    },
+    {
+      "active": "boolean"
+    },
+    "name"
+  ],
+  "Snippet": [
+    "snippets",
+    "Content",
+    "heroicon-o-code-bracket",
+    {
+      "name": "string",
+      "html": "longText"
+    },
+    {},
+    "name"
+  ],
+  "Ticket": [
+    "tickets",
+    "Sales & Team",
+    "heroicon-o-lifebuoy",
+    {
+      "name": "string",
+      "requester_email": "string",
+      "description": "text",
+      "status": "string",
+      "priority": "string",
+      "response": "text"
+    },
+    {},
+    "name"
+  ],
+  "Article": [
+    "knowledge-base",
+    "Content",
+    "heroicon-o-book-open",
+    {
+      "name": "string",
+      "slug": "string",
+      "category": "string",
+      "body": "longText",
+      "published": "boolean"
+    },
+    {
+      "published": "boolean"
+    },
+    "name"
+  ],
+  "Invoice": [
+    "invoices",
+    "Billing",
+    "heroicon-o-document-currency-dollar",
+    {
+      "name": "string",
+      "customer_name": "string",
+      "customer_email": "string",
+      "items": "json",
+      "currency": "string",
+      "tax_percent": "integer",
+      "status": "string",
+      "due_at": "dateTime"
+    },
+    {
+      "items": "array",
+      "due_at": "datetime"
+    },
+    "name"
+  ],
+  "CustomField": [
+    "custom-fields",
+    "Audience",
+    "heroicon-o-adjustments-horizontal",
+    {
+      "name": "string",
+      "key": "string",
+      "type": "string",
+      "options": "json",
+      "required": "boolean"
+    },
+    {
+      "options": "array",
+      "required": "boolean"
+    },
+    "name"
+  ],
+  "Tag": [
+    "tags",
+    "Audience",
+    "heroicon-o-tag",
+    {
+      "name": "string",
+      "color": "string"
+    },
+    {},
+    "name"
+  ],
+  "AttendanceEntry": [
+    "attendance",
+    "Sales & Team",
+    "heroicon-o-clock",
+    {
+      "name": "string",
+      "employee_code": "string",
+      "punched_at": "dateTime",
+      "direction": "string",
+      "source": "string"
+    },
+    {
+      "punched_at": "datetime"
+    },
+    "name"
+  ],
+  "TimeEntry": [
+    "time-tracking",
+    "Sales & Team",
+    "heroicon-o-clock",
+    {
+      "name": "string",
+      "project": "string",
+      "minutes": "integer",
+      "worked_on": "date"
+    },
+    {
+      "worked_on": "date"
+    },
+    "name"
+  ]
+}

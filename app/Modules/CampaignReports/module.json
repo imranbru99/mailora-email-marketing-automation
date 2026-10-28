@@ -1,0 +1,13 @@
+{
+  "number": 71,
+  "key": "campaign-reports",
+  "name": "Campaign Reports",
+  "description": "sent, delivered, opens (unique/total/real vs MPP), clicks (unique/total/by link/heatmap), unsubscribes, complaints, bounces, conversions, revenue, forwards, geography, devices, email clients, timeline charts, top links, top segments, comparison between campaigns, A/B results",
+  "category": "H. Analytics & Reporting",
+  "depends_on": [
+    "campaigns"
+  ],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 89,
+  "key": "knowledge-base",
+  "name": "Knowledge Base / Help Center",
+  "description": "(public + in-app) — articles with universal slugs, search, categories, feedback, AI answer helper",
+  "category": "I. Team, Agency & Operations",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 9,
+  "key": "preferences",
+  "name": "Preference Center",
+  "description": "hosted public page where contacts choose topics/frequency/language, pause emails for N days, update details, unsubscribe with reason",
+  "category": "A. Audience & Contacts",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 107,
+  "key": "health",
+  "name": "Health & Monitoring",
+  "description": "queue lag, failed jobs, send throughput, provider latency, error tracking hooks (Sentry-compatible), uptime endpoint",
+  "category": "K. Platform Services",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

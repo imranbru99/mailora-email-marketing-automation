@@ -1,0 +1,13 @@
+{
+  "number": 6,
+  "key": "imports",
+  "name": "Import / Export",
+  "description": "CSV/XLSX/Google Sheets-style paste import, field mapping wizard, dedupe, validation, error report, chunked queue import of millions of rows, scheduled/auto imports from URL/SFTP, export to CSV/XLSX/PDF",
+  "category": "A. Audience & Contacts",
+  "depends_on": [
+    "contacts"
+  ],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

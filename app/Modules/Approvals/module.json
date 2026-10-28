@@ -1,0 +1,13 @@
+{
+  "number": 21,
+  "key": "approvals",
+  "name": "Campaign Approval Workflow",
+  "description": "request/approve/reject with comments, audit trail",
+  "category": "B. Campaigns",
+  "depends_on": [
+    "campaigns"
+  ],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

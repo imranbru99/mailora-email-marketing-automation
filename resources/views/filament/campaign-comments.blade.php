@@ -1,0 +1,1 @@
+<div class="space-y-4">@forelse($comments as $comment)<div class="rounded-lg border p-4"><p class="whitespace-pre-wrap">{{ $comment->body }}</p><p class="mt-2 text-xs text-gray-500">Team member #{{ $comment->user_id }} · {{ $comment->created_at->format('M j, Y H:i') }}</p></div>@empty<p>No review comments yet.</p>@endforelse</div>

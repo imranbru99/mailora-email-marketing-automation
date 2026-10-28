@@ -1,0 +1,1 @@
+@extends('layouts.public')@section('content')<div class="form-card"><span class="icon green">✓</span><h1>{{ $title }}</h1><p>{{ $message }}</p><a href="/" class="text-link">Return home →</a></div>@endsection

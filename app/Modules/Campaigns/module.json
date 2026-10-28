@@ -1,0 +1,18 @@
+{
+  "number": 14,
+  "key": "campaigns",
+  "name": "Campaigns (Regular broadcasts)",
+  "description": "wizard: audience → sender → subject/preheader → content → tracking → schedule → review/test → send. Statuses: draft, pending approval, scheduled, sending, paused, sent, cancelled, failed",
+  "category": "B. Campaigns",
+  "depends_on": [
+    "contacts",
+    "templates",
+    "identities",
+    "suppression",
+    "consent",
+    "queue"
+  ],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

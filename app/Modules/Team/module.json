@@ -1,0 +1,11 @@
+{
+  "number": 81,
+  "key": "team",
+  "name": "Team Management",
+  "description": "invitations, roles, branch assignment, activity, 2FA enforcement, SSO (Google/Microsoft/SAML-ready), session management",
+  "category": "I. Team, Agency & Operations",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

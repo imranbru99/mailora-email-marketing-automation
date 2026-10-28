@@ -1,0 +1,11 @@
+{
+  "number": 66,
+  "key": "deliverability",
+  "name": "Deliverability Dashboard",
+  "description": "delivery/bounce/complaint/open rates by domain (Gmail, Yahoo, Outlook…), reputation score, blacklist monitoring (DNSBL checks), DMARC report ingestion (aggregate XML parsing), warm-up progress, alerts",
+  "category": "G. Deliverability & Infrastructure",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

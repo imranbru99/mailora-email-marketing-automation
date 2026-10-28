@@ -1,0 +1,11 @@
+{
+  "number": 52,
+  "key": "webinars",
+  "name": "Webinar / Event Registration",
+  "description": "registration pages, reminders, attendance import, follow-up automations, calendar invites (.ics)",
+  "category": "E. Forms, Landing Pages & Growth",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

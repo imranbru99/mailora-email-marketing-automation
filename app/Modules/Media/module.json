@@ -1,0 +1,11 @@
+{
+  "number": 32,
+  "key": "media",
+  "name": "Media Library",
+  "description": "uploads, folders, image optimization/resizing, CDN-ready URLs, stock/AI image generation via laravel-ai-hub, alt-text AI, usage tracking, asset reuse",
+  "category": "C. Content & Design",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

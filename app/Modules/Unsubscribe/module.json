@@ -1,0 +1,11 @@
+{
+  "number": 69,
+  "key": "unsubscribe",
+  "name": "Unsubscribe Handling",
+  "description": "List-Unsubscribe and one-click header (RFC 8058), hosted unsubscribe page, reason capture",
+  "category": "G. Deliverability & Infrastructure",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

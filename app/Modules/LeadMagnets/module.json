@@ -1,0 +1,11 @@
+{
+  "number": 49,
+  "key": "lead-magnets",
+  "name": "Lead Magnets / Content Gate",
+  "description": "gated downloads with auto-delivery email",
+  "category": "E. Forms, Landing Pages & Growth",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

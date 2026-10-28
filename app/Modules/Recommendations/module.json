@@ -1,0 +1,11 @@
+{
+  "number": 61,
+  "key": "recommendations",
+  "name": "Recommendations Engine",
+  "description": "\"recommended for you\", best sellers, recently viewed, cross-sell, via rules + AI",
+  "category": "F. Sales, CRM & Commerce Light",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

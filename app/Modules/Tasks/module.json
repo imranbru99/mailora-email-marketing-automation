@@ -1,0 +1,11 @@
+{
+  "number": 84,
+  "key": "tasks",
+  "name": "Tasks & Project Board",
+  "description": "marketing tasks, kanban, due dates, linked to campaigns",
+  "category": "I. Team, Agency & Operations",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

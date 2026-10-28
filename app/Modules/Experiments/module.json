@@ -1,0 +1,11 @@
+{
+  "number": 15,
+  "key": "experiments",
+  "name": "A/B & Multivariate Testing",
+  "description": "subject, sender name, content, send-time; test % split; auto-winner by opens/clicks/revenue after X hours; statistical significance display",
+  "category": "B. Campaigns",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 7,
+  "key": "verification",
+  "name": "Email Verification & List Hygiene",
+  "description": "syntax/MX/disposable/role-account/typo checks, SMTP probe (optional driver), bulk verification, auto-clean of hard bounces, inactive contact sunset policy, spam-trap risk heuristics",
+  "category": "A. Audience & Contacts",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

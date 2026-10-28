@@ -1,0 +1,11 @@
+{
+  "number": 31,
+  "key": "personalization",
+  "name": "Dynamic Content & Personalization",
+  "description": "merge tags `{{first_name|fallback}}`, conditional blocks by segment/tag/field, loops over products/posts/events, localized content variants per language, live data blocks (API/RSS), countdown timers, personalized images (text-on-image via GD/Imagick)",
+  "category": "C. Content & Design",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

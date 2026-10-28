@@ -1,0 +1,11 @@
+{
+  "number": 87,
+  "key": "notifications",
+  "name": "Notifications Center",
+  "description": "in-app, email, Slack/Telegram/Discord webhook, browser push; per-user preferences",
+  "category": "I. Team, Agency & Operations",
+  "depends_on": [],
+  "is_core": true,
+  "default_enabled": true,
+  "status": "partial"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 43,
+  "key": "events",
+  "name": "Event Tracking API & JS Snippet",
+  "description": "site tracking script (page views, custom events, identify), server-side events API, SDK docs; powers triggers and segments",
+  "category": "D. Marketing Automation",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

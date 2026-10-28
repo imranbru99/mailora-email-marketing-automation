@@ -1,0 +1,11 @@
+{
+  "number": 100,
+  "key": "integrations",
+  "name": "Integrations Hub",
+  "description": "Zapier/Make-compatible triggers/actions, Google Sheets, Slack, Telegram, WordPress plugin (subscribe form + WooCommerce events), Shopify, WooCommerce, Stripe, HubSpot/Salesforce-style CRM sync interface, generic OAuth connector framework",
+  "category": "K. Platform Services",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 101,
+  "key": "scraping",
+  "name": "Data Scraping & Lead Intelligence",
+  "description": "(via **laravel-ai-catalog**) — scrape public pages/directories into contact lists (with legal/compliance guardrails and rate limits), website-to-template, competitor newsletter analysis",
+  "category": "K. Platform Services",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "adapter"
+}

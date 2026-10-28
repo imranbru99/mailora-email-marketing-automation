@@ -1,0 +1,11 @@
+{
+  "number": 50,
+  "key": "referrals",
+  "name": "Referral & Viral Programs",
+  "description": "unique referral links, rewards tracking, leaderboard, automation hooks",
+  "category": "E. Forms, Landing Pages & Growth",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

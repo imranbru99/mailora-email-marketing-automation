@@ -1,0 +1,11 @@
+{
+  "number": 91,
+  "key": "plans",
+  "name": "Plans & Subscriptions",
+  "description": "plan builder (limits: contacts, monthly emails, branches, users, modules included, AI credits, custom domains, API calls), trials, upgrades/downgrades, proration, coupons, annual discounts",
+  "category": "J. Billing, Plans & Platform (SaaS mode)",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

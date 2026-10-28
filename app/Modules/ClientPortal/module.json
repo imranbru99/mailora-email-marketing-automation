@@ -1,0 +1,11 @@
+{
+  "number": 82,
+  "key": "client-portal",
+  "name": "Agency / Client Portal",
+  "description": "each client = branch; white-label (logo, domain, colors, emails), client login with limited access, approvals by client, client reports, per-client billing/usage",
+  "category": "I. Team, Agency & Operations",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

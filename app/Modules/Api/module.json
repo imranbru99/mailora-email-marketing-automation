@@ -1,0 +1,11 @@
+{
+  "number": 98,
+  "key": "api",
+  "name": "Public REST API",
+  "description": "versioned (`/api/v1`), token (Sanctum) + scoped API keys, rate limits, OpenAPI/Swagger docs auto-generated, endpoints for contacts, lists, tags, segments, campaigns, automations, events, transactional send, templates, reports, webhooks",
+  "category": "K. Platform Services",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

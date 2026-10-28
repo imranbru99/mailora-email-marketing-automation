@@ -1,0 +1,11 @@
+{
+  "number": 103,
+  "key": "white-label",
+  "name": "White-label & Custom Domains",
+  "description": "custom app domain, custom tracking/landing domains, brand per business/branch, hide platform branding on paid plans",
+  "category": "K. Platform Services",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

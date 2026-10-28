@@ -1,0 +1,11 @@
+{
+  "number": 106,
+  "key": "feature-flags",
+  "name": "Feature Flags & Experiments",
+  "description": "(internal)",
+  "category": "K. Platform Services",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

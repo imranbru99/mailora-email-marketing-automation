@@ -1,0 +1,1 @@
+{!! '<'.'?xml version="1.0" encoding="UTF-8"?'.'>' !!}<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">@foreach(['','features','pricing','templates','solutions','docs'] as $path)<url><loc>{{ url($path) }}</loc></url>@endforeach @foreach($modules as $module)<url><loc>{{ url('features/'.$module->key) }}</loc></url>@endforeach</urlset>

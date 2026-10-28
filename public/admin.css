@@ -1,0 +1,20 @@
+.mailora-modules{display:flex;flex-direction:column;gap:24px}
+.module-presets{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+.module-presets select{min-width:240px;padding:10px 14px;border:1px solid #e5e5eb;border-radius:9px;background:transparent}
+.module-banner{padding:22px 24px;border:1px solid #e0dcff;border-radius:14px;background:#f4f2ff;color:#403479}
+.module-banner p{margin-top:8px;line-height:1.6}
+.module-banner small{display:block;margin-top:8px;opacity:.8;line-height:1.5}
+.module-heading{font-size:17px;font-weight:650}
+.module-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.module-card{padding:20px;border:1px solid #e7e7ed;border-radius:14px;background:#fff;box-shadow:0 2px 4px #20204004}
+.module-card-header{display:flex;gap:12px;align-items:flex-start;justify-content:space-between}
+.module-card h3{font-size:15px;font-weight:650;line-height:1.4}
+.module-card p{font-size:13px;color:#707080;line-height:1.65;margin-top:14px}
+.module-card small{display:block;font-size:11px;color:#888899;margin-top:12px}
+.module-switch{border-radius:999px;padding:5px 11px;font-size:12px;font-weight:600;background:#f0f0f4;color:#646475;white-space:nowrap}
+.module-switch[aria-checked=true]{background:#ece8ff;color:#6454d9}
+.dark .module-card{background:#18181b;border-color:#34343b}
+.dark .module-banner{background:#28233d;border-color:#42395e;color:#ddd6fe}
+.dark .module-card p{color:#a7a7b4}
+@media(max-width:1400px){.module-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:750px){.module-grid{grid-template-columns:1fr}.module-banner{padding:18px}}

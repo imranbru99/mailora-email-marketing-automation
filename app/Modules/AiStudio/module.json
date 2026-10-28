@@ -1,0 +1,13 @@
+{
+  "number": 36,
+  "key": "ai-studio",
+  "name": "AI Content Studio",
+  "description": "(via laravel-ai-hub) — subject line generator with variants and predicted performance, preheader, full email copy from brief, tone rewrite, shorten/expand, translate, CTA suggestions, spam-word fixer, image generation, campaign idea generator, newsletter from URL/blog (using laravel-ai-catalog to scrape), brand-voice memory, history of generations, token/cost usage",
+  "category": "C. Content & Design",
+  "depends_on": [
+    "templates"
+  ],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

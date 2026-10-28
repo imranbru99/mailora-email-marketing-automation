@@ -1,0 +1,13 @@
+{
+  "number": 68,
+  "key": "tracking",
+  "name": "Link Tracking & Custom Tracking Domain",
+  "description": "open pixel, click redirect with signed URLs, Apple MPP detection and filtering, bot-click filtering, UTM auto-append, per-campaign tracking toggle for privacy",
+  "category": "G. Deliverability & Infrastructure",
+  "depends_on": [
+    "campaigns"
+  ],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

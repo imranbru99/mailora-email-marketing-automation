@@ -1,0 +1,11 @@
+{
+  "number": 75,
+  "key": "activity",
+  "name": "Real-time Activity Feed",
+  "description": "live opens/clicks/signups (broadcast)",
+  "category": "H. Analytics & Reporting",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

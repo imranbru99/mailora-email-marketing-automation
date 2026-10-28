@@ -1,0 +1,11 @@
+{
+  "number": 70,
+  "key": "queue",
+  "name": "Email Queue Engine",
+  "description": "high-throughput batched sending via queues/Horizon, idempotency, retry with backoff, dead-letter handling, throttle per provider, pause/resume/cancel mid-send, crash recovery, send logs. Target: millions of emails per campaign without memory blowups (chunked/lazy collections, cursor pagination)",
+  "category": "G. Deliverability & Infrastructure",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

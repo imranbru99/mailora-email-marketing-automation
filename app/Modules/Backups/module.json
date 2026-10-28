@@ -1,0 +1,11 @@
+{
+  "number": 104,
+  "key": "backups",
+  "name": "Backup, Restore & Data Portability",
+  "description": "scheduled backups, per-business export, import from Mailchimp / Klaviyo / Sendinblue-style CSV exports (mapping helpers)",
+  "category": "K. Platform Services",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 16,
+  "key": "scheduling",
+  "name": "Scheduled & Recurring Campaigns",
+  "description": "schedule by contact timezone, recurring digests, RSS-to-email campaigns (auto-pull latest posts)",
+  "category": "B. Campaigns",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

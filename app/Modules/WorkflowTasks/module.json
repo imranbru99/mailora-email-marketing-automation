@@ -1,0 +1,11 @@
+{
+  "number": 45,
+  "key": "workflow-tasks",
+  "name": "Workflow Tasks & Alerts",
+  "description": "tasks/notifications for sales reps from automation",
+  "category": "D. Marketing Automation",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

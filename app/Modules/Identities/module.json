@@ -1,0 +1,11 @@
+{
+  "number": 63,
+  "key": "identities",
+  "name": "Sending Identities & Domains",
+  "description": "multiple from-addresses/domains per branch, domain verification wizard (SPF, DKIM, DMARC, BIMI hints, return-path), DNS record generator and live checker, reputation notes",
+  "category": "G. Deliverability & Infrastructure",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

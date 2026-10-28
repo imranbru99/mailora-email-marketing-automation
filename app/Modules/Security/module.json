@@ -1,0 +1,11 @@
+{
+  "number": 105,
+  "key": "security",
+  "name": "Security Center",
+  "description": "2FA, IP allowlist, API key rotation, session/device management, login alerts, password policy, field-level encryption for sensitive data, security headers, rate limiting, bot protection",
+  "category": "K. Platform Services",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

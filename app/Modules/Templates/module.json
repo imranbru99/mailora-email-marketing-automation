@@ -1,0 +1,11 @@
+{
+  "number": 30,
+  "key": "templates",
+  "name": "Template Library",
+  "description": "60+ seeded professional templates across industries and purposes (welcome, newsletter, promo, abandoned cart, order confirmation, win-back, webinar invite, event, survey, birthday, review request, product launch, holiday sale, receipt, onboarding drip, etc.), categories, favorites, branch-shared and business-shared templates, import/export template JSON",
+  "category": "C. Content & Design",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 77,
+  "key": "scheduled-reports",
+  "name": "Scheduled Reports",
+  "description": "daily/weekly/monthly email delivery of PDF/CSV reports (laravel-unicode-pdf for any language), client-branded for agencies",
+  "category": "H. Analytics & Reporting",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

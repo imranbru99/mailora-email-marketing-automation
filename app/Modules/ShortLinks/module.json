@@ -1,0 +1,11 @@
+{
+  "number": 54,
+  "key": "short-links",
+  "name": "QR Codes & Short Links",
+  "description": "branded short domain, link management, QR generation, click stats",
+  "category": "E. Forms, Landing Pages & Growth",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

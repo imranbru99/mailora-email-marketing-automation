@@ -1,0 +1,13 @@
+{
+  "number": 5,
+  "key": "segments",
+  "name": "Segments",
+  "description": "visual condition builder (AND/OR groups) on any field, tag, list, activity (opened/clicked/purchased/visited), date ranges, location, score, engagement tier, predictive attributes; dynamic and snapshot segments; live count preview; segment export",
+  "category": "A. Audience & Contacts",
+  "depends_on": [
+    "contacts"
+  ],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

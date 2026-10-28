@@ -1,0 +1,11 @@
+{
+  "number": 4,
+  "key": "tags",
+  "name": "Tags",
+  "description": "manual and automation-driven tagging; tag-based segments",
+  "category": "A. Audience & Contacts",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 93,
+  "key": "invoices",
+  "name": "Invoices & Receipts",
+  "description": "auto invoices, PDF via laravel-unicode-pdf in any language, tax/VAT/GST fields, credit notes",
+  "category": "J. Billing, Plans & Platform (SaaS mode)",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

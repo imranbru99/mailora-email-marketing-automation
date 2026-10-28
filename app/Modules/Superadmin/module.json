@@ -1,0 +1,11 @@
+{
+  "number": 97,
+  "key": "superadmin",
+  "name": "Super Admin Console",
+  "description": "all businesses, plans, usage, health, impersonation (audited), global suppression, abuse monitoring (complaint-rate watchdog, auto-suspend rules), platform settings, announcement banners, feature flags, system health (queues, failed jobs, disk, providers)",
+  "category": "J. Billing, Plans & Platform (SaaS mode)",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

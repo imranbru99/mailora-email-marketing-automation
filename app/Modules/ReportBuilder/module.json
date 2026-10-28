@@ -1,0 +1,11 @@
+{
+  "number": 76,
+  "key": "report-builder",
+  "name": "Custom Reports & Dashboards",
+  "description": "drag-and-drop widgets, saved views, filters by branch/date/segment",
+  "category": "H. Analytics & Reporting",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

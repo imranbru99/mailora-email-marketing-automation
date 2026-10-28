@@ -1,0 +1,11 @@
+{
+  "number": 67,
+  "key": "ip-pools",
+  "name": "Dedicated IP / IP Pool Management (optional)",
+  "description": "pools, warm-up plans",
+  "category": "G. Deliverability & Infrastructure",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

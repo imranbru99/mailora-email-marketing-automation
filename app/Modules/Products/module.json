@@ -1,0 +1,11 @@
+{
+  "number": 58,
+  "key": "products",
+  "name": "Product Catalog",
+  "description": "products, categories, variants, prices, images, stock; product blocks in emails; import from CSV/URL/WooCommerce/Shopify connectors",
+  "category": "F. Sales, CRM & Commerce Light",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

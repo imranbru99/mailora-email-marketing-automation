@@ -1,0 +1,11 @@
+{
+  "number": 41,
+  "key": "drip",
+  "name": "Autoresponders & Drip Courses",
+  "description": "time-based sequences with per-contact start date, course-style delivery",
+  "category": "D. Marketing Automation",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

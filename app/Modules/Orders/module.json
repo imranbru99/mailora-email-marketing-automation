@@ -1,0 +1,13 @@
+{
+  "number": 59,
+  "key": "orders",
+  "name": "Orders & Revenue Attribution",
+  "description": "orders, revenue per campaign/automation/segment, last-touch and multi-touch attribution, LTV, RFM segmentation, repeat-purchase analysis",
+  "category": "F. Sales, CRM & Commerce Light",
+  "depends_on": [
+    "products"
+  ],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 40,
+  "key": "recipes",
+  "name": "Prebuilt Automation Recipes",
+  "description": "one-click templates: Welcome series, Abandoned cart (3-step), Browse abandonment, Post-purchase + review request, Win-back/re-engagement, Birthday/anniversary, Lead nurture, Onboarding drip (SaaS trial), Webinar reminder series, Renewal reminder, Cold-to-warm sunset policy, VIP/loyalty, Back-in-stock, Price drop, Survey follow-up, Event follow-up, Referral invite. Each seeded and ready",
+  "category": "D. Marketing Automation",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

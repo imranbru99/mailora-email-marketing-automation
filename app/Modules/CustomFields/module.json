@@ -1,0 +1,11 @@
+{
+  "number": 2,
+  "key": "custom-fields",
+  "name": "Custom Fields",
+  "description": "text, number, date, select, multi-select, boolean, URL, file; per business/branch; use in merge tags and segments",
+  "category": "A. Audience & Contacts",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 102,
+  "key": "localization",
+  "name": "Localization",
+  "description": "full i18n: English, Bangla, Arabic (RTL), Hindi, Spanish, French, German, Portuguese, Chinese, Japanese, Indonesian, Turkish, Russian, Urdu; language switcher; translation management UI; per-user and per-contact language",
+  "category": "K. Platform Services",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

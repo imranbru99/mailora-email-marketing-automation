@@ -1,0 +1,11 @@
+{
+  "number": 57,
+  "key": "inbox",
+  "name": "Shared Inbox / Reply Management",
+  "description": "inbound replies (IMAP/webhook), threads, assignment, AI-classified intent (interested, unsubscribe, OOO, bounce), canned responses, SLA timers",
+  "category": "F. Sales, CRM & Commerce Light",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

@@ -1,0 +1,11 @@
+{
+  "number": 79,
+  "key": "ai-insights",
+  "name": "AI Insights",
+  "description": "plain-language \"what happened and what to do next\" summaries, anomaly alerts, subject-line learnings, best-time suggestions (via laravel-ai-hub)",
+  "category": "H. Analytics & Reporting",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

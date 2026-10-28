@@ -1,0 +1,14 @@
+{
+  "number": 46,
+  "key": "forms",
+  "name": "Signup Forms Builder",
+  "description": "embedded, popup (exit-intent, timed, scroll), slide-in, bar, inline, full-page; fields, GDPR checkbox, double opt-in, success actions, targeting rules, A/B tests, spam protection (honeypot, reCAPTCHA/Turnstile), embed code + JS API + iframe + Livewire component",
+  "category": "E. Forms, Landing Pages & Growth",
+  "depends_on": [
+    "contacts",
+    "consent"
+  ],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

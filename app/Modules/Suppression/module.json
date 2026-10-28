@@ -1,0 +1,11 @@
+{
+  "number": 8,
+  "key": "suppression",
+  "name": "Suppression & Compliance Lists",
+  "description": "global/branch suppression, unsubscribes, bounces, complaints, manual blocks, domain blocks; always enforced before send",
+  "category": "A. Audience & Contacts",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

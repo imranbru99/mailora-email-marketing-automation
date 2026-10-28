@@ -1,0 +1,11 @@
+{
+  "number": 56,
+  "key": "crm",
+  "name": "Mini-CRM",
+  "description": "companies, deals/pipelines with stages, activities, notes, tasks, owner assignment, deal value, win/lose reasons, email timeline per contact, sync with scoring and automation",
+  "category": "F. Sales, CRM & Commerce Light",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": true,
+  "status": "partial"
+}

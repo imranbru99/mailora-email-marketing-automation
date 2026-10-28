@@ -1,0 +1,11 @@
+{
+  "number": 23,
+  "key": "campaign-folders",
+  "name": "Campaign Folders, Duplicate, Archive, Bulk actions",
+  "description": "",
+  "category": "B. Campaigns",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

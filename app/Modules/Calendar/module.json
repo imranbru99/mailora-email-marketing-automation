@@ -1,0 +1,11 @@
+{
+  "number": 22,
+  "key": "calendar",
+  "name": "Campaign Calendar",
+  "description": "month/week calendar of all campaigns and automations across branches (Filament calendar widget), drag to reschedule",
+  "category": "B. Campaigns",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

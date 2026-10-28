@@ -1,0 +1,11 @@
+{
+  "number": 99,
+  "key": "webhook-manager",
+  "name": "Webhooks Manager",
+  "description": "subscribe to events, secrets, delivery logs, replay",
+  "category": "K. Platform Services",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}

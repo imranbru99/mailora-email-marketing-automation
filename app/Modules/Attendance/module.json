@@ -1,0 +1,11 @@
+{
+  "number": 85,
+  "key": "attendance",
+  "name": "Attendance & HR (optional module)",
+  "description": "staff attendance using **laravel-attendance-hub** (any attendance machine: ZKTeco-style devices, etc.), shifts, leave, late/absent reports; intended for agencies/in-house teams; payroll export; PDF reports in any language",
+  "category": "I. Team, Agency & Operations",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "partial"
+}

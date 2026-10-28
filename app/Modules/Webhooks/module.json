@@ -1,0 +1,11 @@
+{
+  "number": 44,
+  "key": "webhooks",
+  "name": "Webhooks (in & out)",
+  "description": "signed, retried, logged; inbound webhooks create events/contacts",
+  "category": "D. Marketing Automation",
+  "depends_on": [],
+  "is_core": false,
+  "default_enabled": false,
+  "status": "catalogued"
+}
